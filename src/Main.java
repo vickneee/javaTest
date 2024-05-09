@@ -2,6 +2,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         Case.main(new String[0]);
+        SecondClass.main(new String[0]);
+        SecondClass.main(new String[0]);
 
         System.out.println(3+4);
         System.out.println(3*4);
