@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
+        
         System.out.println("Hello world!");
+        
         Case.main(new String[0]);
         SecondClass.main(new String[0]);
         SecondClass.main(new String[0]);
@@ -33,6 +35,7 @@ public class Main {
         System.out.println(b);
 
         System.out.println("Hello world!!!!!!!: " + firstname + " " + lastName + "!");
+        
         // Single line comment
 
         // data types
@@ -70,7 +73,6 @@ public class Main {
         int numTwoLiteral = 64;
         int resultExpression = numOneLiteral + numTwoLiteral;
         System.out.println(resultExpression);
-
 
         /*
         Multi-line comment
